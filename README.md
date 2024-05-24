@@ -1,4 +1,4 @@
-# Oi, meu nome é Luiz gabriel. Seja bem vindo(a) ao meu GitHub!!!
+# Oi, meu nome é Luiz Gabriel. Seja bem vindo(a) ao meu GitHub!!!
 ###  Estou Cursando Desenvolvimento de Software!
 ##
 ###  As linguagens que eu utilizo são: 
