@@ -5,6 +5,12 @@ Bem vindo ao meu perfil GitHub 👋
 
 # Me chamo Luiz Gabriel ! 
 
+<div> 
+  <a href="https://instagram.com/luiz_gabriel_nao_sei_oq_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/luiz-gabriel-3758a32ab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
 Sou Desenvolvedor de Softwares, com uma experiencia de 7 meses de Suporte Tecinico. Iniciando minha carreira de Desenvolvedor em Março de 2024, me reconheço como entusiasta do mercado, com aprendizado do dia após dia.
 
 Possuo foco em Desenvolvimento com Java, HTML, CSS, JavaScript, Python, React, Spring Boot, PHP dentre outras tecnologias.
@@ -20,13 +26,3 @@ Se eu pudesse me definir em três palavras, certamente seriam: otimista, perseve
 ##
 
 <img src="https://skillicons.dev/icons?i=git,css,docker,vim,discord,figma,github,html,idea,java,linux,mysql,notion,py,rabbitmq,vscode,windows" />
-
-##
-
-<div> 
-  <a href="https://instagram.com/luiz_gabriel_nao_sei_oq_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/DzcmuH9gH5" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gabrielon6689@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-gabriel-3758a32ab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
