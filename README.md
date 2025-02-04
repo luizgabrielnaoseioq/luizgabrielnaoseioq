@@ -19,7 +19,7 @@ Se eu pudesse me definir em três palavras, certamente seriam: otimista, perseve
 
 ##
 
-<img src="https://skillicons.dev/icons?i=git,css,docker,vim,discord,figma,github,html,idea,java,js,linux,lua,mysql,node.js,notion,php,py,rabbitmq,react,vite,vscode,windows,wordpress" />
+<img src="https://skillicons.dev/icons?i=git,css,docker,vim,discord,figma,github,html,idea,java,linux,mysql,notion,py,rabbitmq,vscode,windows" />
 
 ##
 
