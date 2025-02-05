@@ -33,7 +33,7 @@
 
 ## 📫 Entre em Contato
 <p>
-  <a href="www.linkedin.com/in/luiz-gabriel-3758a32ab" target="_blank">
+  <a href="https://www.linkedin.com/in/luiz-gabriel-3758a32ab/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:gabrielon6689@gmail.com">
