@@ -1,38 +1,43 @@
-<h1 align="center">
-Bem vindo ao meu perfil GitHub 👋
+<!-- README.md para o GitHub Profile -->
+
+<h1 align="center"> Bem vindo ao meu perfil GitHub 👋 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=luizgabrielnaoseioq.luizgabrielnaoseioq" />
 </h1>
 
-# Me chamo Luiz Gabriel ! 
-
-<div> 
-  <a href="https://instagram.com/luiz_gabriel_nao_sei_oq_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/luiz-gabriel-3758a32ab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<div align="center">
+<a href="https://github.com/isb-op">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isb-op&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=isb-op&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-Sou Desenvolvedor de Softwares, com uma experiencia de 7 meses de Suporte Tecinico. Iniciando minha carreira de Desenvolvedor em Março de 2024, me reconheço como entusiasta do mercado, com aprendizado do dia após dia.
+## 🚀 Sobre mim
 
-Possuo foco em Desenvolvimento com Java, HTML, CSS, JavaScript, Python, React, Spring Boot, PHP dentre outras tecnologias.
+- 🎓 **Formação**: Desenvolvedora FullStack
+- 💻 **Atualmente**: Focado em **Backend**
+- 📊 **Habilidades**: Java, API Rest, SQL, SpringBoot, PostgreSQL 
+- 🌍 **Idiomas**: Português (nativo), Inglês (intermediário), Espanhol (básico)
 
-Me considero ágil e consistente em aprender uma nova linguagem e me adaptar à qualquer mudança, pronto para superar qualquer desafio!
-Se eu pudesse me definir em três palavras, certamente seriam: otimista, perseverante e esforçado! ;)
+## 🛠️ Tecnologias e Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+</p>
 
-<div style="display: inline_block"><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgabrielnaoseioq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgabrielnaoseioq&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+## 📂 Projetos Destacados
+- 🔹 [Sistema de criação de usuários e login](https://github.com/luizgabrielnaoseioq/apinotionlogin)
+- 🔹 [Landing-Page](https://github.com/luizgabrielnaoseioq/Landing-Page)
+- 🔹 [Projeto-Cordel](https://github.com/luizgabrielnaoseioq/Projeto-Cordel)
 
-##
-
-<img src="https://skillicons.dev/icons?i=git,css,docker,vim,discord,figma,github,html,idea,java,linux,mysql,notion,py,rabbitmq,vscode,windows" />
-
-## Principais ferramentas do dia a dia
-
-<div style="display:inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-</div><br/>
+## 📫 Entre em Contato
+<p>
+  <a href="https://www.linkedin.com/in/Luiz_Gabriel/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:gabrielon6689@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/luizgabrielnaoseioq/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</p>
