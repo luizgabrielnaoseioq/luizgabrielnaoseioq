@@ -6,13 +6,13 @@
 
 <div align="center">
 <a href="https://github.com/isb-op">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isb-op&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=isb-op&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgabrielnaoseioq&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgabrielnaoseioq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🚀 Sobre mim
 
-- 🎓 **Formação**: Desenvolvedora FullStack
+- 🎓 **Formação**: Desenvolvedor FullStack
 - 💻 **Atualmente**: Focado em **Backend**
 - 📊 **Habilidades**: Java, API Rest, SQL, SpringBoot, PostgreSQL 
 - 🌍 **Idiomas**: Português (nativo), Inglês (intermediário), Espanhol (básico)
