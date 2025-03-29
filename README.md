@@ -26,9 +26,9 @@
 </p>
 
 ## 📂 Projetos Destacados
-- 🔹 [Sistema de Eventos (Aonde pratico tudo que aprendo e onde aprendo)](https://github.com/luizgabrielnaoseioq/ecommercev2)
+- 🔹 [CRUD](https://github.com/luizgabrielnaoseioq/CRUD)
 - 🔹 [Landing-Page](https://github.com/luizgabrielnaoseioq/Landing-Page)
-- 🔹 [Projeto-Cordel](https://github.com/luizgabrielnaoseioq/Projeto-Cordel)
+- 🔹 [Projeto de Ecommerce](https://github.com/luizgabrielnaoseioq/ecommerce-aula-back)
 
 ## 📫 Entre em Contato
 <p>
