@@ -12,9 +12,9 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 **Formação**: Desenvolvedor FullStack
-- 💻 **Atualmente**: Focado em **Backend**
-- 📊 **Habilidades**: Java, API Rest, SQL, SpringBoot, PostgreSQL 
+- 🎓 **Formação**: Desenvolvimento de Sistemas - Sesi Senai - Criciúma - SC
+- 💻 **Atualmente**: Focado em **FrontEnd**
+- 📊 **Habilidades**: Java, API Rest, SQL, SpringBoot, PostgreSQL, React, Next, Nest
 - 🌍 **Idiomas**: Português (nativo), Inglês (intermediário), Espanhol (básico)
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -26,9 +26,9 @@
 </p>
 
 ## 📂 Projetos Destacados
-- 🔹 [CRUD](https://github.com/luizgabrielnaoseioq/CRUD)
-- 🔹 [Landing-Page](https://github.com/luizgabrielnaoseioq/Landing-Page)
-- 🔹 [Projeto de Ecommerce](https://github.com/luizgabrielnaoseioq/ecommerce-aula-back)
+- 🔹 [Chronos-Pomodoro](https://github.com/luizgabrielnaoseioq/chronos-pomodoro)
+- 🔹 [Nazax Info Tech](https://nazaxinfotech.com.br)
+- 🔹 [AGD Nazario](https://agdnazario.com.br)
 
 ## 📫 Entre em Contato
 <p>
@@ -38,5 +38,5 @@
   <a href="mailto:gabrielon6689@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/luiz_gabriel_nao_sei_oq_/?next=%2F" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/luiz_gabriel.dev/?next=%2F" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
