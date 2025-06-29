@@ -26,7 +26,7 @@
 </p>
 
 ## 📂 Projetos Destacados
-- 🔹 [Chronos-Pomodoro](https://github.com/luizgabrielnaoseioq/chronos-pomodoro)
+- 🔹 [Chronos-Pomodoro](https://pomodoro.nazaxinfotech.com.br)
 - 🔹 [Nazax Info Tech](https://nazaxinfotech.com.br)
 - 🔹 [AGD Nazario](https://agdnazario.com.br)
 
