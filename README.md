@@ -31,19 +31,19 @@ Beyond development, I also create content to teach, inspire, and help others gro
 
 ### Tools
 
-[![Development Tools](https://skillicons.dev/icons?i=docker,postman,git,github,figma,vercel,cypress,windows,vscode,idea,npm,pnpm,bash)](https://github.com/luizgabrielnaoseioq)
+[![Development Tools](https://skillicons.dev/icons?i=docker,postman,git,github,figma,vercel,cypress,windows,vscode,idea,pnpm,bash)](https://github.com/luizgabrielnaoseioq)
 
 ### Back-end
 
-[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,java,spring,maven,php,python,typescript,prisma,cs)](https://github.com/luizgabrielnaoseioq)
+[![Back-end Development Skills](https://skillicons.dev/icons?i=nestjs,prisma)](https://github.com/luizgabrielnaoseioq)
 
 ### Front-end
 
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next,vite,tailwind,bootstrap,styledcomponents)](https://github.com/luizgabrielnaoseioq)
+[![Front-end Development Skills](https://skillicons.dev/icons?i=react,next,tailwind)](https://github.com/luizgabrielnaoseioq)
 
 ### Database
 
-[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,firebase,postgres)](https://github.com/luizgabrielnaoseioq)
+[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,postgres)](https://github.com/luizgabrielnaoseioq)
 
 <br>
 
