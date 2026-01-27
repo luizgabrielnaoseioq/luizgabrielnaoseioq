@@ -9,8 +9,7 @@
 My journey in tech began at 15 with a technical course in IT — and since then, I’ve been driven by one purpose: turning ideas into scalable, real-world software solutions.
 I'm passionate about building tools that empower people and businesses, and I see every line of code as a step toward innovation.
 
-From web development to automation and AI-powered systems, I'm constantly learning and evolving.
-Beyond development, I also create content to teach, inspire, and help others grow through technology.
+I work building and maintaining real-world web systems, focusing on bug fixing, feature evolution, API integration and scalable architectures using JavaScript, TypeScript, Node/NestJS and React/Next.js.
 
 ### 🚀 Quick Facts
 
