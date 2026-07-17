@@ -9,6 +9,7 @@ on:
       - main
     paths:
       - ".github/workflows/snake.yml"
+      - "scripts/enhance_snake.py"
 
 concurrency:
   group: contribution-snake
@@ -23,6 +24,9 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
       - name: Generate branded contribution snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -33,11 +37,18 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Grow snake after every contribution cell eaten
+        run: |
+          python scripts/enhance_snake.py \
+            dist/github-contribution-grid-snake.svg \
+            dist/github-contribution-grid-snake-dark.svg \
+            --max-stroke 7
+
       - name: Publish animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "chore: refresh contribution snake"
+          commit_message: "chore: refresh growing contribution snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
