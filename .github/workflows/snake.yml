@@ -37,18 +37,18 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Grow snake after every contribution cell eaten
+      - name: Grow snake in length while eating contributions
         run: |
           python scripts/enhance_snake.py \
             dist/github-contribution-grid-snake.svg \
             dist/github-contribution-grid-snake-dark.svg \
-            --max-stroke 7
+            --initial-visible 4
 
       - name: Publish animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "chore: refresh growing contribution snake"
+          commit_message: "chore: refresh length-growing contribution snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
