@@ -2,11 +2,17 @@ name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
+    paths:
+      - ".github/workflows/snake.yml"
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -17,13 +23,13 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate contribution snake
+      - name: Generate branded contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#8250df&color_dots=#ebedf0,#b6e3ff,#80ccff,#54aeff,#0969da
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#a371f7&color_dots=#161b22,#0b3b60,#0c5d8f,#1f9cf0,#58a6ff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -32,5 +38,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: refresh contribution snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
