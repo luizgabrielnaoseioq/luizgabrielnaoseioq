@@ -6,10 +6,10 @@ Working mainly with **TypeScript, Node.js, NestJS, Next.js, React Native, Postgr
 
 Currently focused on building SaaS products, modular business systems and integrations with AI and MCP.
 
-## Profissional activity
+## Professional Activity
 
 ![Contributions in the corporate GitLab](./assets/activity-gitlab.png)
 
-> Aggregate activity in the private corporate sector.
+> Aggregated contribution activity from a private corporate GitLab instance. No source code, repository details, or confidential information is disclosed.
 
 [LinkedIn](https://www.linkedin.com/in/luiz-gabrieldeoliveira) · [Portfolio](https://nazaxinfotech.com.br) · [Email](mailto:gabrielon6689@gmail.com)
